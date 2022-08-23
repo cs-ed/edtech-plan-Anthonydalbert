@@ -22,11 +22,31 @@ context of your class, considering demographic and technical resources?
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
+**Online Software**
+EduBlocks (www.edublocks.org)
+CODAP (https://codap.concord.org/app/static/dg/en/cert/index.html#)
+Google Colab (https://colab.research.google.com/)
+Kaggle (www.kaggle.com)
+
+**Installed Software**
+
 
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
+**Instructor:**
+Device name	SMHS-LT-845103
+Full device name	SMHS-LT-845103.smusd.local
+Processor	Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz
+Installed RAM	8.00 GB (7.85 GB usable)
+Device ID	13DE4899-D8EF-4BD6-954F-FC4552D520D5
+Product ID	00329-00000-00003-AA342
+System type	64-bit operating system, x64-based processor
+Pen and touch	Pen support
+
+**Students:**
+
 
 ### Application
 
