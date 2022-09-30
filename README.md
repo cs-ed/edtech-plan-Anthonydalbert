@@ -16,6 +16,10 @@ Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
 
+As this course is a new course being offered within our district, I can expect a lot of bumps in the road wheile we work out the kinks. The first issue that has, and will continue to arise is the issue of student access to the required materials. Since we are a K-12 school district serving children, there are many protections in place to keep their data secure. All new technology requirest district-level approval and some will require parent permission in order for students to utilize it. We do, however, have a very forward-thinking, and student friendly district and that allows more flexibility and more resources being given to support studnets in endavors such as starting a new course.  Since our district is focused upon equity, all sutdents recieve a rented chromebook capable of all technology needed in this course and home wifi is paid for by the district if a student cannot afford it.
+
+This class will be offered to junior and senior students, and has a prerequisite of successful completion of both Algebra 1 and Geometry. Students will earn both math credit and elective credit for this course. Although it is technically a computer science course based on the content, the state has not approved it to be listed as a Career Technical Education (CTE) course, which is why students will only be earning math credit and not computer science pathway credit. After completing this course students are encouraged to enter an Introduction to Statistics course (if still in high school) or a Data Analysis course if they will be entering college.
+
 ## Plan
 
 ### Software Specifications
@@ -31,7 +35,7 @@ Google Colab (https://colab.research.google.com/)
 Kaggle (www.kaggle.com)
 
 **Installed Software**
-
+None at this time - all materials will be free, online resources.
 
 ### Hardware Specifications
 
