@@ -7,7 +7,8 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+This course has been adapted from the course “Explorations in Data Science” which was created through a collaborative effort between Stanford University, YouCubed, and Google. It will introduce students to the main ideas in data science through free tools such as Google Sheets, Python, Data Commons and Tableau. Students will learn to be data explorers in project-based units, through which they will develop their understanding of data analysis, sampling, correlation/causation, bias and uncertainty, probability, modeling with data, making and evaluating data-based arguments, the power of data in society, and more. At the end of the course students will have a portfolio of their data science work to showcase their newly developed abilities.
+
 
 ### Situation
 
@@ -22,6 +23,7 @@ context of your class, considering demographic and technical resources?
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
+
 **Online Software**
 EduBlocks (www.edublocks.org)
 CODAP (https://codap.concord.org/app/static/dg/en/cert/index.html#)
@@ -46,7 +48,11 @@ System type	64-bit operating system, x64-based processor
 Pen and touch	Pen support
 
 **Students:**
-
+HP Google Chromebook
+Processor Intel(R) Celeron(R) N4000 CPU @ 1.10GHz GenuineIntel
+Installed RAM	4.00 GB
+16GB eMMC
+64GB storage capacity
 
 ### Application
 
