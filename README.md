@@ -22,11 +22,11 @@ This class will be offered to junior and senior students, and has a prerequisite
 
 
 **Online Software**
-EduBlocks (www.edublocks.org)
-CODAP (https://codap.concord.org/app/static/dg/en/cert/index.html#)
-Google Colab (https://colab.research.google.com/)
-Kaggle (www.kaggle.com)
-Google Sheets (sheets.google.com)
+EduBlocks (www.edublocks.org)  
+CODAP (https://codap.concord.org/app/static/dg/en/cert/index.html#)  
+Google Colab (https://colab.research.google.com/)  
+Kaggle (www.kaggle.com)  
+Google Sheets (sheets.google.com)  
 
 **Installed Software**
 None at this time - all materials will be free, online resources.
@@ -36,43 +36,34 @@ None at this time - all materials will be free, online resources.
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
 **Instructor:**
-Device name	SMHS-LT-845103
-Full device name	SMHS-LT-845103.smusd.local
-Processor	Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz
-Installed RAM	8.00 GB (7.85 GB usable)
-Device ID	13DE4899-D8EF-4BD6-954F-FC4552D520D5
-Product ID	00329-00000-00003-AA342
-System type	64-bit operating system, x64-based processor
-Pen and touch	Pen support
+Device name	SMHS-LT-845103  
+Full device name	SMHS-LT-845103.smusd.local  
+Processor	Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz  
+Installed RAM	8.00 GB (7.85 GB usable)  
+Device ID	13DE4899-D8EF-4BD6-954F-FC4552D520D5  
+Product ID	00329-00000-00003-AA342  
+System type	64-bit operating system, x64-based processor  
+Pen and touch	Pen support  
 
 **Students:**
-HP Google Chromebook
-Processor Intel(R) Celeron(R) N4000 CPU @ 1.10GHz GenuineIntel
-Installed RAM	4.00 GB
-16GB eMMC
-64GB storage capacity
+HP Google Chromebook  
+Processor Intel(R) Celeron(R) N4000 CPU @ 1.10GHz GenuineIntel  
+Installed RAM	4.00 GB  
+16GB eMMC  
+64GB storage capacity  
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-
 Students will be using their chromebooks on a daily basis, both in class and at home to complete their assignments. While, from a computing-power standpoint it would be more efficient to have this class in a computer lab, student chromebooks allow a flexibility that a lab does not offer. In our school district, we have a 1-to-1 ratio of chromebooks to students. Every student is given one when they enter the district. So it was much more manageable to adjust our software choices to be chromebook accessible than it was to try to manage the entire course in a computer lab. This will allow students who do not have access to a high-powered pc at home to still be able to access the course content outside of the classroom setting.
 
-The students will use their assigned resources in the following manner:
-**EduBlocks:** In the first few units, we will have in-class activities and projects that will involve coding. Since some students are entering the class with zero experience in coding, we will be using EduBlocks to give them insight and access to the world of Python coding.
-**CODAP:** We use CODAP in our assignments for drag-and-drop statistical analysis. Students will use this to create advanced charts while they have not reached their full knowledge of statistical modeling. As thier skills progress we will transition out of this into Colab where they will do the modeling on their own.
-**Google Colab:** This is our main resource in the course. We will be using Colab to code in Python. After Unit 2, students will be expected to write code that outputs their desired charts, images, and summary statistics based on their choice of mathematical model. 
-**Kaggle:** as a backup in case Colab is not available or limited
-**Google Sheets:** our EDA, or Exploratory Data Analysis, will all be done in Google Sheets. It will give students quick and easy summaries of the data, which will allow them to identify areas within the data to explore further. We will also be doing all cleaning of the data within Google Sheets due to its ease of access and formula based approach.
+The students will use their assigned resources in the following manner:  
+**EduBlocks:** In the first few units, we will have in-class activities and projects that will involve coding. Since some students are entering the class with zero experience in coding, we will be using EduBlocks to give them insight and access to the world of Python coding.  
+**CODAP:** We use CODAP in our assignments for drag-and-drop statistical analysis. Students will use this to create advanced charts while they have not reached their full knowledge of statistical modeling. As thier skills progress we will transition out of this into Colab where they will do the modeling on their own.  
+**Google Colab:** This is our main resource in the course. We will be using Colab to code in Python. After Unit 2, students will be expected to write code that outputs their desired charts, images, and summary statistics based on their choice of mathematical model.   
+**Kaggle:** as a backup in case Colab is not available or limited.  
+**Google Sheets:** our EDA, or Exploratory Data Analysis, will all be done in Google Sheets. It will give students quick and easy summaries of the data, which will allow them to identify areas within the data to explore further. We will also be doing all cleaning of the data within Google Sheets due to its ease of access and formula based approach.  
 
 ### Impacts
-
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
 
 As touched on above, by using technology in the way we have outlined here, it gives all students access to all resources no matter what they come to the class with. A computer is issued to them, and all software is free and online. Due to the nature of the course, it is also not required for students to complete work outside of the classroom. At some points it may be helpful, but a student who gives the appropriate amount of effort during class time should have no trouble completing the tasks given. This course would also have a seamless transition to virtual/distance learning if necessary, since all resources are provided and students can theoretically work from anywhere. 
 
